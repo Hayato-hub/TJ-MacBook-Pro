@@ -146,3 +146,7 @@ footer {
     font-size: 0.3rem;
     font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
 }
+
+.footer-pic {
+    width: 95%;
+}

@@ -4,14 +4,14 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>話題アプリ／裏Apple.</title>
+        <title>話題アプリ／RINNE.</title>
         <link href="{{ secure_asset('css/adult.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
         <!--ヘッダーとカテゴリー-->
         <header>
-            <h1><span class="header-h1">裏Apple.</span></h1>
+            <h1><span class="header-h1">RINNE.</span></h1>
         </header>
         
         <div class="big-body">
@@ -95,11 +95,15 @@
                 </div>
             </div>
             <br>
-        
+            <!--編集者-->
+            <div class="editor">
+                <img src="{{ asset('image/lp_editor.png') }}" class="footer-pic"></img>
+            </div>
         </div>
         
         <footer>
-            <h1>裏Apple.<br><span class="footer-h1">@2020 CyberPic SHA. ALL RIGHTS RESERVED.</span></h1>
+            <img src="{{ asset('image/lp_footer.jpg') }}" class="footer-pic"></img>
+            <h1>RINNE.<br><span class="footer-h1">@2020 CyberPic SHA. ALL RIGHTS RESERVED.</span></h1>
         </footer>
     </body>
 </html>
