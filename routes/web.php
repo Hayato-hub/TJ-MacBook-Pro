@@ -11,6 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('new-release', function () {
+    return view('tj.check'); //仮LP
+    // return view('tj.adult'); //獲得LP
+});
+
+// LP確認用
+Route::get('cccheck', function () {
+    return view('tj.adult'); //獲得LP
 });
