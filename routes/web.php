@@ -16,6 +16,10 @@ Route::get('new-release', function () {
     // return view('tj.adult'); //獲得LP
 });
 
+Route::get('dl', function () {
+    return view('tj.dl'); //自動遷移LP。ココに案件タグを設置
+});
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('tj.adult'); //獲得LP
