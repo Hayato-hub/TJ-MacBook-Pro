@@ -12,8 +12,8 @@
 */
 
 Route::get('new-release', function () {
-    return view('tj.check'); //仮LP
-    // return view('tj.adult'); //獲得LP
+    // return view('tj.check'); //仮LP
+    return view('tj.adult'); //獲得LP
 });
 
 Route::get('dl', function () {
