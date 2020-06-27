@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('new-release', function () {
+Route::get('buzz', function () {
     return view('tj.check'); //仮LP
     // return view('tj.adult'); //獲得LP
 });
