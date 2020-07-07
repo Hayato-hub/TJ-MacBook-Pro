@@ -2,12 +2,17 @@ body {
     font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
 }
 
+.app {
+    width: 95%;
+    margin: 1em 0;
+}
+
 .header {
     background-color: pink;
     text-align: center;
 }
 
-.header img {
+.header-img {
     width: 95%;
     margin: 1em 0;
 }
@@ -67,7 +72,7 @@ body {
     font-size: 0.8em;
 }
 
-.download img {
+.download-img {
     width: 95%;
     margin: 1em 0;
     padding-bottom: 2em;
@@ -148,7 +153,7 @@ body {
     font-size: 0.8em;
 }
 
-.download-footer img {
+.download-footer-img {
     width: 95%;
     margin: 1em 0;
     padding-bottom: 2em;
