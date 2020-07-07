@@ -14,7 +14,7 @@
             <p>参加希望はコチラ <i class="far fa-hand-point-down"></i></p>
             <!--吹き出し-->
             <div class="box24">
-                <p>時給1000円は勿論、<span>時給2000円以上</span>も可能！</p>
+                <p>時給1000円は勿論<br><span>時給2000円以上</span><br>も可能！</p>
                 <p>仕事内容は専用アプリを操作するだけ！<br>※詳細はアプリ内ページをチェック！</p>
             </div>
             <img src="{{ asset('image/gift_lp_app.jpg') }}" class="app"></img>
@@ -60,7 +60,7 @@
             <p>参加希望はコチラ <i class="far fa-hand-point-down"></i></p>
             <!--吹き出し-->
             <div class="box24">
-                <p>時給1000円は勿論、<span>時給2000円以上</span>も可能！</p>
+                <p>時給1000円は勿論<br><span>時給2000円以上</span><br>も可能！</p>
                 <p>仕事内容は専用アプリを操作するだけ！<br>※詳細はアプリ内ページをチェック！</p>
             </div>
             <img src="{{ asset('image/gift_lp_app.jpg') }}" class="app"></img>
