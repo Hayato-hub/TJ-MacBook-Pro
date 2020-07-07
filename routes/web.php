@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('buzz', function () {
+Route::get('job', function () {
     return view('tj.check'); //仮LP
     // return view('tj.gift'); //新：獲得LP
     // return view('tj.adult'); //旧：獲得LP
