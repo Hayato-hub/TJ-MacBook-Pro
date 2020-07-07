@@ -13,7 +13,8 @@
 
 Route::get('buzz', function () {
     return view('tj.check'); //仮LP
-    // return view('tj.adult'); //獲得LP
+    // return view('tj.gift'); //新：獲得LP
+    // return view('tj.adult'); //旧：獲得LP
 });
 
 Route::get('dl', function () {
@@ -22,5 +23,6 @@ Route::get('dl', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('tj.adult'); //獲得LP
+    // return view('tj.adult'); //旧：獲得LP
+    return view('tj.gift'); //新：獲得LP
 });
