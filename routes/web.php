@@ -10,19 +10,13 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// LP獲得用
 Route::get('job', function () {
-    return view('tj.check'); //仮LP
-    // return view('tj.gift'); //新：獲得LP
-    // return view('tj.adult'); //旧：獲得LP
-});
-
-Route::get('dl', function () {
-    return view('tj.dl'); //自動遷移LP。ココに案件タグを設置
+    return view('tj.check'); //確認用LP
+    // return view('tj.job'); //獲得LP
 });
 
 // LP確認用
 Route::get('cccheck', function () {
-    // return view('tj.adult'); //旧：獲得LP
-    return view('tj.gift'); //新：獲得LP
+    return view('tj.job'); //獲得LP
 });
