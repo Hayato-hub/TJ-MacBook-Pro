@@ -12,7 +12,7 @@
         <header>
             <h1>M I N E.</h1>
             <img src="{{ asset('image/gf_1.jpg') }}"></img>
-            <h2>Instagram & 学生限定！<br>有名女性雑誌掲載 <i class="far fa-hand-point-up"></i><br>自宅スキマバイト公開！</h2>
+            <h2>Instagram限定！<br>学生限定！<br>有名女性雑誌掲載 <i class="far fa-hand-point-up"></i><br>自宅スキマバイト公開！</h2>
         </header>
         
         <div class="body-top">
