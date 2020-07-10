@@ -13,10 +13,12 @@
 // LP獲得用
 Route::get('job', function () {
     return view('tj.check'); //確認用LP
-    // return view('tj.job'); //獲得LP
+    // return view('tj.job2'); //獲得LP(2)
+    
+    // return view('tj.job'); //獲得LP(1)
 });
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('tj.job'); //獲得LP
+    return view('tj.job2'); //獲得LP
 });
