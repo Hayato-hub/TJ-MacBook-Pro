@@ -28,6 +28,8 @@
                 
                 <div class="body-main-2">
                     <img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png">
+                    <!--ボタン-->
+                    <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 </div>
                 
                 <div class="body-main-3">
@@ -47,7 +49,9 @@
                     <br>
                     <h3>公式ページで詳細をCHECK！</h3>
                     <p>まだイマイチどんな仕事かピンときていない方が多いかと思います！<br>少しでも気になる方は公式ページ・そして専用アプリ内をチェックしてみて下さい！</p>
-                    <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/gifcha</a></span></a>
+                    <!--ボタン-->
+                    <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                    <!--<a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/gifcha</a></span></a>-->
                     <br>
                     <p class="red">※仕事詳細は【必ずアプリ内をCHECK】して下さい <i class="far fa-hand-point-up"></i></p>
                     <br>
