@@ -15,8 +15,8 @@
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>Instagram & 学生限定！<br>【賢い学生は使ってる】スキマ時間を有効活用！<br>自宅で出来るスキマバイト！</span></h1>
-                <img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png">
+                <h1><span>Instagram & 学生限定！<br>【賢い学生は使ってる!?】<br>TV・SNS観ながらでOK！<br>自宅で出来るスキマバイト！</span></h1>
+                <img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png" class="wide">
                 <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>有名女性雑誌掲載！自宅スキマバイト公開！</p>
             </div>
