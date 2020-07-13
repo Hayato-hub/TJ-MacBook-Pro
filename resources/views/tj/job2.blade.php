@@ -30,7 +30,9 @@
                 </div>
                 
                 <div class="body-main-2">
-                    <img src="{{ asset('image/gf_1.jpg') }}">
+                    <!--<img src="{{ asset('image/gf_1.jpg') }}">-->
+                    <img src="{{ asset('image/jobManga_1.png') }}">
+                    <img src="{{ asset('image/jobManga_2.png') }}">
                     <!--<img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png">-->
                     <!--ボタン-->
                     <!--<a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
