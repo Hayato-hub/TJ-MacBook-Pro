@@ -59,6 +59,9 @@
                     <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                     <!--<a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/gifcha</a></span></a>-->
                     <br>
+                    <br>
+                    <img src="{{ asset('image/gf_app.jpg') }}"></img>
+                    <p>これな↑</p>
                     <p class="red">※仕事詳細は【必ずアプリ内をCHECK】して下さい <i class="far fa-hand-point-up"></i></p>
                     <br>
                     <p>ちょこっと宣伝！<br>Twitterで高時給 & レアバイトとか(不定期 & 即削除)呟いてます！<br>Twitter：@work_info_</p>
