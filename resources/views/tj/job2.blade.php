@@ -19,7 +19,7 @@
                 <!--<h1><span>TV・SNS観ながらでOK！<br>自宅で出来るスキマバイト！</span></h1>-->
                 <img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png" class="wide">
                 <h1><span>TV・SNS観ながらでOK！<br>自宅で出来るスキマバイト！</span></h1>
-                <a href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>有名女性雑誌掲載！自宅スキマバイト公開！</p>
             </div>
             
@@ -40,7 +40,7 @@
                 
                 <div class="body-main-3">
                     <h3>時給2000円超え？自宅で出来るスキマバイト</h3>
-                    <p>チャリンは今有名雑誌にも掲載されるなど、巷で話題になりつつあるスキマバイトです！<br>お手持ちのスマホを使って、専用SNSを使うだけの簡単なバイト！でも、しっかり報酬が高いのが魅力なお仕事です♬</p>
+                    <p>ギフチャは今有名雑誌にも掲載されるなど、巷で話題になりつつあるスキマバイトです！<br>お手持ちのスマホを使って、専用SNSを使うだけの簡単なバイト！でも、しっかり報酬が高いのが魅力なお仕事です♬</p>
                     <!--<br>-->
                     <h3>仕事はSNSを利用するだけ！</h3>
                     <p>専用SNSをTwitterやinstagramの様に使い、SNS内でユーザーとコミュニケーションするといったもの！<br>イメージはTwitterの様な感じで、投稿を行いコメント・DMに対してユーザーとコミュニケーションを取ってもらう形です。<br><br>これなら在宅は勿論、TV・SNSを見ながら片手間にお小遣い稼ぎ出来ます。</p>
@@ -49,19 +49,19 @@
                     <img src="{{ asset('image/gf_2.jpg') }}"></img>
                     <br>
                     <!--<br>-->
-                    <h3>巷で話題、チャリンが選ばれる理由とは？</h3>
+                    <h3>巷で話題、ギフチャが選ばれる理由とは？</h3>
                     <img src="{{ asset('image/gf_3.jpg') }}"></img>
                     <br>
                     <!--<br>-->
                     <h3>公式ページで詳細をCHECK！</h3>
                     <p>まだイマイチどんな仕事かピンときていない方が多いかと思います！<br>少しでも気になる方は公式ページ・そして専用アプリ内をチェックしてみて下さい！</p>
                     <!--ボタン-->
-                    <a href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                    <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                     <!--<a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/gifcha</a></span></a>-->
                     <br>
                     <br>
-                    <a href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/charin_600x500_jikyu_ss114_main.png"></a>
-                    <!--<img src="{{ asset('image/gf_app.jpg') }}"></img>-->
+                    <!--<a href="https://a-trade.jp/redirect/charin?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/charin_600x500_jikyu_ss114_main.png"></a>-->
+                    <img src="{{ asset('image/gf_app.jpg') }}"></img>
                     <p>これな↑</p>
                     <!--<p class="red">※仕事詳細は【必ずアプリ内をCHECK】して下さい <i class="far fa-hand-point-up"></i></p>-->
                     <br>
